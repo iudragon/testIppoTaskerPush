@@ -29,3 +29,4 @@ class MealForm(forms.ModelForm):
         exclude = ("restaurant",)
 # kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 # dsdadadads
+#dsfsdfksdfj
